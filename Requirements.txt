@@ -1,0 +1,13 @@
+########## REQUIREMENTS ###########
+
+We chose to use the Python programming language for this study. Some packages are not in the standard library and need to be installed first in order to launch our recommender engines:
+
+1- PySpark, the Python API for Spark: https://spark.apache.org/docs/latest/api/python/pyspark.html
+
+2- Pandas, a Data Analysis Library: https://pandas.pydata.org/
+
+3- Numpy, a package for scientific computing: https://numpy.org/
+
+4- Matplotlib, a 2D plotting library: https://matplotlib.org/
+
+5- Sklearn, a Machine Learning library: https://scikit-learn.org/stable/
