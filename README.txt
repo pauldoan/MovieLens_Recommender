@@ -1,6 +1,6 @@
 ########## CONTENT ##########
 
-This repository contains all the files concerning the Recommender project for the Personalization Theory class IEOR 4571. It has been created by a group of three students, Bertrand Thia-Thiong-Fat (bt2513), Jeremy Yao (jy3015), and Paul Doan (pqd2001).
+This repository contains all the files concerning the Recommender project for the Personalization Theory class IEOR 4571. It has been created by a group of three students, Paul Doan (pqd2001), Bertrand Thia-Thiong-Fat (bt2513), and Jeremy Yao (jy3015).
 
 You will find the following documents:
 
